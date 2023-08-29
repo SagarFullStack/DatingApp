@@ -72,3 +72,5 @@ C:\Users\sagar\OneDrive\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.Identit
 C:\Users\sagar\OneDrive\Desktop\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
 C:\Users\sagar\OneDrive\Desktop\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\sagar\OneDrive\Desktop\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sagar\OneDrive\Desktop\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+C:\Users\sagar\OneDrive\Desktop\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
