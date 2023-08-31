@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\sagar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\sagar\\OneDrive\\Desktop\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sagar\\AppData\\Roaming\\NuGet\\NuGet.Config"
