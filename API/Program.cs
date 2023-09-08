@@ -1,4 +1,3 @@
-using API;
 using API.Data;
 using API.Entities;
 using API.Extensions;
@@ -26,18 +25,16 @@ app.UseCors(builder => builder
     .AllowCredentials()
     .WithOrigins("https://localhost:4200"));
 
-
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
-app.UseAuthorization();
+//app.UseAuthorization();
 
 app.MapControllers();
 app.MapHub<PresenceHub>("hubs/presence");
 app.MapHub<MessageHub>("hubs/message");
-
 
 using var scope = app.Services.CreateScope();
 var services = scope.ServiceProvider;
